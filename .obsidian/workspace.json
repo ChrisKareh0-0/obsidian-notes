@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9babbe88b05fb95b",
+            "id": "419973e0dce1b636",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Final Project DevOps - Christoph Kareh.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Final Project DevOps - Christoph Kareh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Final Project DevOps - Christoph Kareh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Final Project DevOps - Christoph Kareh.md"
+              }
             }
           }
         ]
@@ -139,10 +147,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9babbe88b05fb95b",
+  "active": "419973e0dce1b636",
   "lastOpenFiles": [
+    "Pasted image 20240625200541.png",
+    "Pasted image 20240625195929.png",
+    "Pasted image 20240625195249.png",
+    "Pasted image 20240625195214.png",
+    "Pasted image 20240625001656.png",
+    "Pasted image 20240623225853.png",
+    "keyPair.png",
+    "IAM User.png",
+    "Final Project DevOps - Christoph Kareh.md",
+    "Networking/Networking.md",
+    "LinkMail/Authenticate via google in reactJS.md",
+    "Networking",
+    "test.md",
+    "LinkMail/LinkMail Setup Back-End.md",
+    "google authentication.md",
     "Setup Back-End.md",
-    "LinkMail/Setup Back-End.md",
     "2024-06-13.md",
     "LinkMail",
     "create a link.md",
