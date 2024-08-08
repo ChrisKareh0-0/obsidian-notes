@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser Window.md",
+                "file": "Electron/Browser Window.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Browser Window.md",
+                "file": "Electron/Browser Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Browser Window.md",
+                "file": "Electron/Browser Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Browser Window.md"
+                "file": "Electron/Browser Window.md"
               }
             }
           }
@@ -172,13 +172,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "03bce8a8aeb86dd6",
+  "active": "ce6feb5a078dbe28",
   "lastOpenFiles": [
-    "Window Customization.md",
-    "Browser Window.md",
+    "Electron/Window Customization.md",
+    "Electron/Browser Window.md",
     "Electron/Electron Documentation.md",
-    "Setting backgroundColor.md",
-    "win.setBackgroundColor.md",
+    "Electron/Setting backgroundColor.md",
+    "Electron/win.setBackgroundColor.md",
     "Devops/Final Project DevOps - Christoph Kareh.md",
     "Electron",
     "Devops/IAM User.png",
