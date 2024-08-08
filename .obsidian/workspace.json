@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Project DevOps - Christoph Kareh.md",
+                "file": "Devops/Final Project DevOps - Christoph Kareh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47502c404127df97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electron/Electron Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03bce8a8aeb86dd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Browser Window.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Project DevOps - Christoph Kareh.md",
+                "file": "Browser Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final Project DevOps - Christoph Kareh.md",
+                "file": "Browser Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Project DevOps - Christoph Kareh.md"
+                "file": "Browser Window.md"
               }
             }
           }
@@ -147,17 +172,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "419973e0dce1b636",
+  "active": "03bce8a8aeb86dd6",
   "lastOpenFiles": [
-    "Pasted image 20240625200541.png",
-    "Pasted image 20240625195929.png",
-    "Pasted image 20240625195249.png",
-    "Pasted image 20240625195214.png",
-    "Pasted image 20240625001656.png",
-    "Pasted image 20240623225853.png",
-    "keyPair.png",
-    "IAM User.png",
-    "Final Project DevOps - Christoph Kareh.md",
+    "Window Customization.md",
+    "Browser Window.md",
+    "Electron/Electron Documentation.md",
+    "Setting backgroundColor.md",
+    "win.setBackgroundColor.md",
+    "Devops/Final Project DevOps - Christoph Kareh.md",
+    "Electron",
+    "Devops/IAM User.png",
+    "Devops",
+    "Devops/keyPair.png",
+    "Devops/Pasted image 20240625200541.png",
+    "Devops/Pasted image 20240625195929.png",
+    "Devops/Pasted image 20240625195249.png",
+    "Devops/Pasted image 20240625195214.png",
+    "Devops/Pasted image 20240625001656.png",
+    "Devops/Pasted image 20240623225853.png",
     "Networking/Networking.md",
     "LinkMail/Authenticate via google in reactJS.md",
     "Networking",

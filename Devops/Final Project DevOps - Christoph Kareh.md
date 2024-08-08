@@ -1,12 +1,3 @@
-## Create IAM User
-![[IAM User.png]]
-Permission Options is set to : Attach Policies directly
-Permission Policy is set to : AdministratorAccess | Type : AWS managed - job function
-## Create Access Key
-![[Pasted image 20240623225853.png]]
-Use Case is set to : Command Line Interface (CLI)
-## Create Key Pair
-![[keyPair.png]]
 Key Pair Type : ED25519
 Private Key File Format : .pem
 ## Terraform Config
