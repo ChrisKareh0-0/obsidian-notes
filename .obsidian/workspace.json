@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electron/Browser Window.md",
+                "file": "Wirestorm/Video. (94) My Tech Startup Failed....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "621cf30076d8a6a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Family Engage/October 16 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electron/Browser Window.md",
+                "file": "Family Engage/October 16 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electron/Browser Window.md",
+                "file": "Family Engage/October 16 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electron/Browser Window.md"
+                "file": "Family Engage/October 16 2024.md"
               }
             }
           }
@@ -158,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,17 +180,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "ce6feb5a078dbe28",
   "lastOpenFiles": [
-    "Electron/Window Customization.md",
-    "Electron/Browser Window.md",
+    "Wirestorm/Video. (94) My Tech Startup Failed....md",
+    "Family Engage/October 16 2024.md",
+    "Family Engage",
     "Electron/Electron Documentation.md",
+    "Marketing Analysis.md",
+    "Electron/Browser Window.md",
+    "Wirestorm/My Tech Startup Failed ... Youtube Video.md",
+    "Wirestorm",
+    "Devops/Final Project DevOps - Christoph Kareh.md",
+    "Electron/Window Customization.md",
     "Electron/Setting backgroundColor.md",
     "Electron/win.setBackgroundColor.md",
-    "Devops/Final Project DevOps - Christoph Kareh.md",
     "Electron",
     "Devops/IAM User.png",
     "Devops",
