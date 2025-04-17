@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDS Project.md",
+                "file": "Personal/Masonry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDS Project"
+              "title": "Masonry"
             }
           }
         ]
@@ -157,6 +157,8 @@
   },
   "active": "61bc2a86b1b574d8",
   "lastOpenFiles": [
-    "IDS Project.md"
+    "IDS Project.md",
+    "Personal/Masonry.md",
+    "Personal"
   ]
 }
