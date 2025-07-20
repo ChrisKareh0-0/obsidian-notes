@@ -156,3 +156,6 @@ Beyond these 3 degrees, there are _many_ higher degrees in other branches:
 - **Sacred Geometry**: The use of shapes and architecture to reflect universal laws.
 
 ---
+ [[Soul Searching]] 
+
+[[First phrase]]
