@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compatibility with Spline React Framework.md",
+                "file": "Personal/Masonry/RoadMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compatibility with Spline React Framework"
+              "title": "RoadMap"
             }
           },
           {
@@ -181,7 +181,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -307,8 +308,10 @@
   },
   "active": "9369306114387ee1",
   "lastOpenFiles": [
-    "Hydration.md",
+    "Personal/LinkMail - tsugimail.com.md",
+    "Personal/Masonry/RoadMap.md",
     "Compatibility with Spline React Framework.md",
+    "Hydration.md",
     "insert.md",
     "Kismet.md",
     "React",
@@ -338,7 +341,6 @@
     "Wirestorm",
     "Electron/Window Customization.md",
     "Electron/Setting backgroundColor.md",
-    "Electron/win.setBackgroundColor.md",
     "Electron",
     "Devops/IAM User.png",
     "Devops",
@@ -349,7 +351,6 @@
     "Devops/Pasted image 20240625195214.png",
     "Devops/Pasted image 20240625001656.png",
     "Devops/Pasted image 20240623225853.png",
-    "Networking/Networking.md",
     "Networking",
     "LinkMail",
     "Untitled.canvas"
