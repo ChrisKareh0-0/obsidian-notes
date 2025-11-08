@@ -4,165 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "31645a74aab257b1",
+        "id": "e71672373b238414",
         "type": "tabs",
         "children": [
           {
-            "id": "419973e0dce1b636",
+            "id": "170cbd846500c385",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Devops/Final Project DevOps - Christoph Kareh.md",
-                "mode": "source",
-                "source": false
+                "file": "DEV/Pasted image 20241029100609.png"
               },
-              "icon": "lucide-file",
-              "title": "Final Project DevOps - Christoph Kareh"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241029100609"
             }
           },
           {
-            "id": "31624e11c1782d77",
+            "id": "2f4f3bae1a679d6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Personal/Masonry/First phrase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "First phrase"
             }
           },
           {
-            "id": "560837218bffbcc6",
+            "id": "81c2da6d26feb1f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estonia/Moving to Estonia as a Startup Founder.md",
+                "file": "Personal/Masonry/Masonry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moving to Estonia as a Startup Founder"
-            }
-          },
-          {
-            "id": "a76f007e0f49c95a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estonia/Travel to Estonia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Travel to Estonia"
-            }
-          },
-          {
-            "id": "da56b951b3a1de12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estonia/Website I should apply through.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Website I should apply through"
-            }
-          },
-          {
-            "id": "a792cd79f55621cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kismet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kismet"
-            }
-          },
-          {
-            "id": "f1bbde781024b064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hydration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hydration"
-            }
-          },
-          {
-            "id": "9369306114387ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Masonry/RoadMap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RoadMap"
-            }
-          },
-          {
-            "id": "47502c404127df97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electron/Electron Documentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electron Documentation"
-            }
-          },
-          {
-            "id": "03bce8a8aeb86dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirestorm/Video. (94) My Tech Startup Failed....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Video. (94) My Tech Startup Failed..."
-            }
-          },
-          {
-            "id": "621cf30076d8a6a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Family Engage/October 16 2024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "October 16 2024"
+              "title": "Masonry"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
+      },
+      {
+        "id": "4d32702c1d435d0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f10e2565c5a17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Masonry/First phrase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First phrase"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Personal/Masonry/Masonry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Machine Learning"
+              "title": "Backlinks for Masonry"
             }
           },
           {
@@ -296,6 +202,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -306,53 +213,53 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "9369306114387ee1",
+  "active": "81c2da6d26feb1f6",
   "lastOpenFiles": [
-    "Personal/LinkMail - tsugimail.com.md",
+    "Personal/Masonry/First phrase.md",
+    "DEV/Pasted image 20241029100536.png",
+    "DEV/Pasted image 20241029100609.png",
+    "DEV/Devops/Pasted image 20240625200541.png",
+    "DEV/Devops/Pasted image 20240625195929.png",
+    "DEV/Devops/Pasted image 20240625195249.png",
+    "DEV/Devops/Pasted image 20240625195214.png",
+    "DEV/Devops/Pasted image 20240625001656.png",
+    "DEV/Devops/Pasted image 20240623225853.png",
+    "DEV/Devops/keyPair.png",
+    "DEV/Devops/IAM User.png",
+    "DEV/Devops/Final Project DevOps - Christoph Kareh.md",
+    "Wirestorm/Airguard AI-driven network management system**,.md",
+    "DEV/Kismet.md",
+    "DEV/IDS Project.md",
+    "DEV/Attack Simulation.md",
+    "DEV/next Airguard Database Infrastructure.md",
+    "TODO Airguard.md",
+    "Family Engage/October 16 2024.md",
+    "LinkMail/Setup Back-End.md",
+    "DEV/Compatibility with Spline React Framework.md",
+    "Dashboard.md",
+    "DEV/React/Hydration.md",
+    "DEV",
+    "DEV/React",
+    "DEV/Feet.md",
+    "Green Shyett.md",
+    "Personal/Masonry/Masonry.md",
     "Personal/Masonry/RoadMap.md",
-    "Compatibility with Spline React Framework.md",
-    "Hydration.md",
-    "insert.md",
-    "Kismet.md",
-    "React",
+    "Wirestorm/Video. (94) My Tech Startup Failed....md",
+    "DEV/Machine Learning/Machine Learning.md",
     "Estonia/Website I should apply through.md",
+    "Personal/LinkMail - tsugimail.com.md",
+    "insert.md",
+    "DEV/React",
     "Estonia/Travel to Estonia.md",
     "Estonia/Relocating to Estonia for Employment as a Software Developer.md",
     "Estonia/Register Your Place of Residence.md",
-    "Estonia/Moving to Estonia as a Startup Founder.md",
-    "Estonia/Initial Expenses.md",
-    "Estonia/Apply for a Long-Stay (D) Visa.md",
-    "Estonia/Accommodation Arrangements.md",
-    "Family Engage/October 16 2024.md",
-    "Machine Learning/Machine Learning.md",
     "Estonia",
-    "Pasted image 20241029100609.png",
-    "Pasted image 20241029100536.png",
-    "Machine Learning/flywheel.md",
-    "Machine Learning/Untitled.md",
-    "Devops/Final Project DevOps - Christoph Kareh.md",
-    "Machine Learning",
-    "Wirestorm/Video. (94) My Tech Startup Failed....md",
+    "DEV/Machine Learning",
     "Family Engage",
-    "Electron/Electron Documentation.md",
-    "Marketing Analysis.md",
-    "Electron/Browser Window.md",
-    "Wirestorm/My Tech Startup Failed ... Youtube Video.md",
     "Wirestorm",
-    "Electron/Window Customization.md",
-    "Electron/Setting backgroundColor.md",
-    "Electron",
-    "Devops/IAM User.png",
-    "Devops",
-    "Devops/keyPair.png",
-    "Devops/Pasted image 20240625200541.png",
-    "Devops/Pasted image 20240625195929.png",
-    "Devops/Pasted image 20240625195249.png",
-    "Devops/Pasted image 20240625195214.png",
-    "Devops/Pasted image 20240625001656.png",
-    "Devops/Pasted image 20240623225853.png",
+    "DEV/Electron",
+    "DEV/Devops",
     "Networking",
-    "LinkMail",
     "Untitled.canvas"
   ]
 }

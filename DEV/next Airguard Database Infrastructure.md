@@ -174,4 +174,4 @@ While a detailed, column-level normalisation is outside this high-level blueprin
 - **Data Integrity**: Using relational databases like PostgreSQL for structured data (e.g., device inventory, configuration) allows for the enforcement of referential integrity (via foreign keys) and data type constraints, ensuring consistency. The schema-based nature of Protocol Buffers also contributes to data consistency for inter-service communication.
 - **Modularity and Independence**: Separating concerns into distinct database systems (e.g., monitoring data in Prometheus, MLOps data in MLflow) ensures that changes in one data domain do not directly impact others, promoting a more maintainable and scalable architecture. The use of specific data models like KubeEdge's Device CRDs for network devices also ensures a well-defined structure.
 
-[[Summarize]]
+[[Airguard AI-driven network management system**,]]
